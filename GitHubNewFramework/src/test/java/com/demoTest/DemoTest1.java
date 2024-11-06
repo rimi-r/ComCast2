@@ -21,6 +21,7 @@ public class DemoTest1 {
 			System.out.println("clue8");
 System.out.println("clue9");
 System.out.println("clue 10");
+System.out.println("new statement");
 		}
 		
 	}
