@@ -19,6 +19,7 @@ public class DemoTest1 {
 			System.out.println("clue6");
 			System.out.println("clue 7");
 			System.out.println("clue8");
+<<<<<<< HEAD
 
 System.out.println("clue0");
 System.out.println("clue10");
@@ -31,6 +32,13 @@ System.out.println("new statement");
 =======
 System.out.println("new statement");
 System.out.println("another one");
+>>>>>>> branch 'master' of https://github.com/rimi-r/ComCast2.git
+=======
+			
+			System.out.println("clue9");
+			System.out.println("clue 10");
+			System.out.println("new statement");
+			System.out.println("another one");
 >>>>>>> branch 'master' of https://github.com/rimi-r/ComCast2.git
 		}
 		
