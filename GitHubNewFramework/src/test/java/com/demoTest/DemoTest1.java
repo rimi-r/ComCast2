@@ -19,7 +19,8 @@ public class DemoTest1 {
 			System.out.println("clue6");
 			System.out.println("clue 7");
 			System.out.println("clue8");
-System.out.println("clue9");
+System.out.println("clue0");
+System.out.println("clue10");
 		}
 		
 	}
