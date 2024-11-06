@@ -19,10 +19,11 @@ public class DemoTest1 {
 			System.out.println("clue6");
 			System.out.println("clue 7");
 			System.out.println("clue8");
-System.out.println("clue9");
-System.out.println("clue 10");
-System.out.println("new statement");
-System.out.println("another one");
+			
+			System.out.println("clue9");
+			System.out.println("clue 10");
+			System.out.println("new statement");
+			System.out.println("another one");
 		}
 		
 	}
