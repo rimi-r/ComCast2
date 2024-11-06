@@ -26,6 +26,7 @@ public class DemoTest1 {
 			System.out.println("new statement");
 			
 			System.out.println("new rep");
+			System.out.println("new rep1");
 		}
 		
 	}
