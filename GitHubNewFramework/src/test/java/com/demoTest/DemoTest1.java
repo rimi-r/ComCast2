@@ -27,6 +27,7 @@ public class DemoTest1 {
 			
 			System.out.println("new rep");
 			System.out.println("new rep1");
+			System.out.println("new one from previous");
 		}
 		
 	}
