@@ -8,7 +8,7 @@ public class ProgTest {
 	public void demoRun()
 	{
 		System.out.println("state 1");
-		System.out.println("state 2");
+		
 		
 		
 	}
