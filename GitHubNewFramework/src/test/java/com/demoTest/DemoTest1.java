@@ -24,6 +24,10 @@ public class DemoTest1 {
 			System.out.println("clue9");
 			System.out.println("clue 10");
 			System.out.println("new statement");
+			
+			System.out.println("new rep");
+			System.out.println("new rep1");
+			System.out.println("new one from previous");
 		}
 		
 	}
